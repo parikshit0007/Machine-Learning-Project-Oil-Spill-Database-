@@ -1,6 +1,6 @@
 **Heading: Oil Spill Detection: Machine Learning Approach**
 
-[Oil_Spill_Database](D:\MACHINE LEARNING ASSIGNMENT\oil_spill.csv)
+[Oil_spill_database](file:///D:/MACHINE%20LEARNING%20ASSIGNMENT/oil_spill.csv)
 
 **About Dataset:** 
 The Oil Spill Dataset provides a comprehensive collection of satellite images of the ocean, where some sections contain oil spills while others do not. Utilizing computer vision algorithms, these images were processed to extract features describing the contents of each image patch. The primary task is to predict whether a given patch contains an oil spill, distinguishing between spill (positive case) and non-spill (negative case) instances. With 50 columns in total, the output column is labeled as 'target'.
